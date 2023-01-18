@@ -11,3 +11,159 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.Header-img {
+  width: 160px;
+}
+.cart-value {
+  position: relative;
+  top: -49px;
+  right: -10px;
+}
+.cart {
+  position: relative;
+  top: 10px;
+  right: 17px;
+}
+.box {
+  background-color: rgb(138, 218, 245);
+  height: 200px;
+  width: 300px;
+  margin-left: 300px;
+}
+.img {
+  width: 400px;
+  position: relative;
+  bottom: 151px;
+  left: 30px;
+}
+.block {
+  width: 300px;
+  height: 250px;
+  background-color: rgb(214, 227, 239);
+}
+.transform {
+  transform: translateY(100px);
+}
+.divide {
+  width: 300px;
+  height: 250px;
+}
+.color {
+  background-color: rgb(214, 227, 239);
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.color p {
+  transform: translateY(50%);
+  margin-left: 10px;
+  font-weight: 500;
+}
+.margin {
+  margin-left: 98px;
+}
+.trusted {
+  margin-left: 50px;
+}
+.trusted-last {
+  width: 100%;
+
+  background-color: rgb(214, 227, 239);
+}
+.img-fluide {
+  width: 150px;
+}
+.footer-bg {
+  background-color: rgb(24, 24, 85);
+  color: aliceblue;
+}
+.footer {
+  padding-left: 150px;
+  padding-right: 150px;
+  height: 43vh;
+  padding-top: 50px;
+}
+.img-fluid {
+  max-width: 300px;
+}
+.images {
+  max-width: 120px;
+}
+.rounded-button {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: none;
+  margin-left: 5px;
+  cursor: pointer;
+  opacity: 0.5;
+}
+.rounded-button:hover {
+  opacity: 1;
+}
+.rounded-button-active {
+  opacity: 1;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: none;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.check {
+  position: relative;
+  bottom: 35%;
+  right: 30%;
+  width: 12px;
+  color: rgb(255, 255, 255);
+}
+.plus-minus {
+  cursor: pointer;
+}
+.sort-button-active {
+  opacity: 1;
+  width: 35px;
+  height: 30px;
+  background-color: black;
+  color: white;
+  margin-right: 20px;
+}
+.sort-button {
+  width: 35px;
+  height: 30px;
+  background-color: white;
+  color: black;
+  margin-right: 20px;
+}
+.list-view {
+  margin-left: 19%;
+}
+.cart-img {
+  width: 100px;
+}
+.cart-color {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  margin-top: 7px;
+  margin-left: 3px;
+}
+.incriment {
+  padding-left: 9.5em;
+}
+.nothing-cart {
+  padding-top: 100px;
+  height: 40ch;
+}
+.button-cart {
+  width: 20em;
+  height: 6ch;
+  margin-top: 10px;
+}
+.recipt {
+  width: 260px;
+  margin-left: 22.3em;
+  border-radius: 10px;
+  background-color: rgb(202, 207, 213);
+}
